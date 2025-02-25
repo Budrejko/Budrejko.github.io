@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c875321.css",
+    "main.js": "/static/js/main.bb8e6f3a.js",
+    "static/js/453.ec50a4ab.chunk.js": "/static/js/453.ec50a4ab.chunk.js",
+    "static/media/salvage-kraken.jpg": "/static/media/salvage-kraken.4cdb2df055cadefbf540.jpg",
+    "static/media/krakenhomepage.jpg": "/static/media/krakenhomepage.567b4ac65b564bb97137.jpg",
+    "static/media/luminis-logo.png": "/static/media/luminis-logo.466430f3e28bc8dc4879.png",
+    "index.html": "/index.html",
+    "main.2c875321.css.map": "/static/css/main.2c875321.css.map",
+    "main.bb8e6f3a.js.map": "/static/js/main.bb8e6f3a.js.map",
+    "453.ec50a4ab.chunk.js.map": "/static/js/453.ec50a4ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c875321.css",
+    "static/js/main.bb8e6f3a.js"
+  ]
+}
